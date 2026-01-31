@@ -1,2 +1,18 @@
-# pandas-sales-analysis
-Python project that analyzes sales data from CSV files using Pandas. Calculates product-wise total sales using groupby and aggregation operations, focusing on data processing and basic analytics.
+# Pandas Sales Analysis
+
+This project analyzes sales data using Python and Pandas.
+It reads data from a CSV file and calculates total sales for each product.
+
+## Technologies Used
+- Python
+- Pandas
+
+## Features
+- CSV data processing
+- GroupBy aggregation
+- Sales summary generation
+
+## How to Run
+1. Install pandas
+2. Run:
+   python analysis.py
